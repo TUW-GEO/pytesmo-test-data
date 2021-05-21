@@ -1,0 +1,1 @@
+/home/pstradio/shares/radar/Datapool/ESA_CCI_SM/02_processed/ESA_CCI_SM_v04.7/timeseries/combined/1250.nc
